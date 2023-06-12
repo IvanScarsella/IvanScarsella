@@ -31,7 +31,7 @@ Enumera tus contribuciones a proyectos de código abierto o colaborativos si las
 Sitio web: [tu sitio web personal]
 -->
 
-###### Agradezco a las perosas que me acompañan en este camino de ser desarrollador web, especialmente a mi familia y a Henry por formarme profesionalmente.
+###### Agradezco a las perosas que me acompañan en este camino de ser desarrollador web, especialmente a mi familia por el apoyo y a Henry por formarme profesionalmente.
 
 <!--
 **IvanScarsella/IvanScarsella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
