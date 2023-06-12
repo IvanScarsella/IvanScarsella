@@ -27,7 +27,9 @@ Enumera tus contribuciones a proyectos de código abierto o colaborativos si las
 
 #### Email: scarsellaivan@gmail.com
 #### LinkedIn: https://www.linkedin.com/in/iv%C3%A1n-scarsella-126a18261/
+<!--
 Sitio web: [tu sitio web personal]
+-->
 
 ###### Agradezco a las perosas que me acompañan en este camino de ser desarrollador web, especialmente a mi familia y a Henry por formarme profesionalmente.
 
