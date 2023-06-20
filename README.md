@@ -6,7 +6,7 @@
 
 ### Proyectos Destacados
 #### Proyecto Individual para Henry - Countries
-##### Este proyecto lo realicé para el bootcamp de Henry, en donde pongo en práctica los recursos aprendidos para creac una aplicación en donde se ven distintos países vinculados a sus actividades turísticas. 
+##### Este proyecto lo realicé para el bootcamp de Henry, en donde pongo en práctica los recursos aprendidos para crear una aplicación en donde se ven distintos países vinculados a sus actividades turísticas. 
 <!--
 insertar deploy
 -->
