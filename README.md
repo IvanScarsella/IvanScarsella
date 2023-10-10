@@ -17,7 +17,7 @@
 ### Conversor de Números Romanos
 ##### Aplicación creada para traducir números decimales a romanos y viceversa. 
 
-##### https://github.com/IvanScarsella/conversor-de-numeros-romanos
+##### http://conversor-de-numeros-romanos-l7ms-ivanscarsella.vercel.app/
 
 #### Tecnologías utilizadas
 ####  <img src="https://cdn.changelog.com/uploads/icons/topics/YXL/icon_large.png?v=63682389432" alt="Logo de TypeScript" width="35" height="35">  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Logo de Next.js" width="35" height="35"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9bu2WEcLZDrjws5jidZbgUfi42pPa1GivRA&usqp=CAU" alt="Logo de CSS" width="35" height="35"> <img src="https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxNTA1Njg4L29yaWdpbmFsXzBjNTQwZDYxYmI2MTJhMGZlOTU3Mzc5ZjgxMTc1OGYyLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjoxMjAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjkwfSwianBlZyI6eyJxdWFsaXR5Ijo5MH0sInJvdGF0ZSI6bnVsbH19?bc=1" alt="Logo de React" width="35" height="35">
