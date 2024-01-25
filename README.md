@@ -7,7 +7,7 @@
 ## Proyectos Destacados
 
 ### Hotel Management
-##### Es una aplicación para reservar hoteles. Incluye Sanity.IO para la base de datos, comentarios y puntuación del hotel de parte del usuario, reserva de habitaciones, pagos online con Stripe, Dark Mode, Búsqueda y filtros por nombre y tipo de habitación, autenticación on Auth.js, estilos con Tailwind CSS.
+##### Es una aplicación para reservar hoteles. Incluye Sanity.IO para la base de datos, comentarios y puntuación del hotel de parte del usuario, reserva de habitaciones, pagos online con Stripe, Dark Mode, Búsqueda y filtros por nombre y tipo de habitación, autenticación con Auth.js, estilos con Tailwind CSS.
 
 ##### https://hotel-management-phi.vercel.app/
 
