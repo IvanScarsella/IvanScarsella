@@ -6,6 +6,14 @@
 
 ## Proyectos Destacados
 
+### Vinoteca Madrecepa
+##### Aplicación realizada para mostrar el catálogo de productos de una vinoteca. Posee filtros combinados, búsqueda, administración de base de datos, ubicación y carrusel de productos destacados.
+
+##### https://vinotecamadrecepa.com.ar/
+
+#### Tecnologías utilizadas
+#### <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Logo de Next.js" width="35" height="35"> <img src="https://cdn.changelog.com/uploads/icons/topics/YXL/icon_large.png?v=63682389432" alt="Logo de TypeScript" width="35" height="35"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6ebjy0LI--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dxy1c2bvl6odeo52dodk.jpg" alt="Logo de Tailwind" width="35" height="35">
+
 ### Hotel Management
 ##### Es una aplicación para reservar hoteles. Incluye Sanity.IO para la base de datos, comentarios y puntuación del hotel de parte del usuario, reserva de habitaciones, pagos online con Stripe, Dark Mode, Búsqueda y filtros por nombre y tipo de habitación, autenticación con Auth.js, estilos con Tailwind CSS.
 
