@@ -87,6 +87,18 @@ Enumera tus contribuciones a proyectos de código abierto o colaborativos si las
 #### Tecnologías utilizadas
 #### <img src="https://i.pinimg.com/736x/b1/75/54/b175549d8268dd656b92e3b56988bdf9.jpg" alt="Logo de JavaScript" width="35" height="35">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9bu2WEcLZDrjws5jidZbgUfi42pPa1GivRA&usqp=CAU" alt="Logo de JavaScript" width="35" height="35">  <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="Logo de JavaScript" width="35" height="35">  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="Logo de React" width="35" height="35">  <img src="https://edteam-media.s3.amazonaws.com/blogs/original/f82fbb89-6854-409e-83b3-8a02f80826ee.png" alt="Logo de React" width="35" height="35">  <img src="https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxNTA1Njg4L29yaWdpbmFsXzBjNTQwZDYxYmI2MTJhMGZlOTU3Mzc5ZjgxMTc1OGYyLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjoxMjAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjkwfSwianBlZyI6eyJxdWFsaXR5Ijo5MH0sInJvdGF0ZSI6bnVsbH19?bc=1" alt="Logo de React" width="35" height="35">
 
+
+
+
+
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IvanScarsella&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IvanScarsella&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!-- Características destacadas
 Destaca las características principales del proyecto y cualquier resultado notable que hayas logrado. */
 
