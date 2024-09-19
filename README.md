@@ -23,17 +23,18 @@
 
 ## Proyectos Destacados
 
-### Vinoteca Madrecepa
-##### Aplicación realizada para mostrar el catálogo de productos de una vinoteca. Posee filtros combinados, búsqueda, administración de base de datos, ubicación y carrusel de productos destacados.
+### Tienda de Bebidas Grilli
+##### Aplicación desarrollada con Next.js tipo E-commerce para una tienda de bebidas ubicada en la ciudad de La Plata. Posee filtros combinados, búsqueda, estilos con Tailwind CSS, gestión y mantenimiento de base de datos con Sanity.io. 
 
-##### https://vinotecamadrecepa.com.ar/
+##### https://vinotecagrilli.com.ar/
 
 #### Tecnologías utilizadas
 ####
 <div style="display: flex; flex-wrap: wrap; gap: 10px;"> 
   <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Logo de Next.js" width="35" height="35"> 
   <img src="https://cdn.changelog.com/uploads/icons/topics/YXL/icon_large.png?v=63682389432" alt="Logo de TypeScript" width="35" height="35"> 
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6ebjy0LI--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dxy1c2bvl6odeo52dodk.jpg" alt="Logo de Tailwind" width="35" height="35"> 
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6ebjy0LI--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dxy1c2bvl6odeo52dodk.jpg" alt="Logo de Tailwind" width="35" height="35">
+  <img src="https://1000logos.net/wp-content/uploads/2021/06/Stripe-Logo-2009.png" alt="Logo de Sanity" width="35" height="35">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="Logo de Figma" width="35" height="35"> 
 </div>
 
@@ -81,6 +82,20 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9bu2WEcLZDrjws5jidZbgUfi42pPa1GivRA&usqp=CAU" alt="Logo de CSS" width="35" height="35">
   <img src="https://i.pinimg.com/736x/b1/75/54/b175549d8268dd656b92e3b56988bdf9.jpg" alt="Logo de HTML" width="35" height="35">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="Logo de Figma" width="35" height="35">
+</div>
+
+### Vinoteca Madrecepa
+##### Aplicación realizada para mostrar el catálogo de productos de una vinoteca. Posee filtros combinados, búsqueda, administración de base de datos, ubicación y carrusel de productos destacados.
+
+##### https://vinotecamadrecepa.com.ar/
+
+#### Tecnologías utilizadas
+####
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"> 
+  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Logo de Next.js" width="35" height="35"> 
+  <img src="https://cdn.changelog.com/uploads/icons/topics/YXL/icon_large.png?v=63682389432" alt="Logo de TypeScript" width="35" height="35"> 
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6ebjy0LI--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dxy1c2bvl6odeo52dodk.jpg" alt="Logo de Tailwind" width="35" height="35"> 
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="Logo de Figma" width="35" height="35"> 
 </div>
 
 ### Zingoni Propiedades
