@@ -34,7 +34,7 @@
   <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Logo de Next.js" width="35" height="35"> 
   <img src="https://cdn.changelog.com/uploads/icons/topics/YXL/icon_large.png?v=63682389432" alt="Logo de TypeScript" width="35" height="35"> 
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6ebjy0LI--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dxy1c2bvl6odeo52dodk.jpg" alt="Logo de Tailwind" width="35" height="35">
-  <img src="https://1000logos.net/wp-content/uploads/2021/06/Stripe-Logo-2009.png" alt="Logo de Sanity" width="35" height="35">
+  <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_96102ac6497377cd53da621075fe828e/sanity.png" alt="Logo de Sanity" width="35" height="35">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="Logo de Figma" width="35" height="35"> 
 </div>
 
